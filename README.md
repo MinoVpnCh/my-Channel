@@ -29,4 +29,4 @@
 💡روش 2 برای بهترین عملکرد می‌توانید یکی از این لینک‌ها را داخل نرم‌افزار خود قرار بدهید:
 
 لینک 1:
-<sub>https://raw.githubusercontent.com/MinoVpnCh/my-Channel/main/MinoVpnCh.txt</sub>
+```https://raw.githubusercontent.com/MinoVpnCh/my-Channel/main/MinoVpnCh.txt```
