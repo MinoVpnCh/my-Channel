@@ -4,7 +4,7 @@
 🏅 قوی ترین کانفیگ های ممکن را دریافت کنید 🏅
 
 خرید 👇
-@MinoVpnVipBot
+[@MinoVpnVipBot](https://t.me/@MinoVpnVipBot)
 
 ادمین 👇
 @MinoVpnAd
