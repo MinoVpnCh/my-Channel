@@ -7,11 +7,9 @@
 [@MinoVpnVipBot](https://t.me/MinoVpnVipBot)
 
 ادمین 👇
-
 [@MinoVpnAd](https://t.me/MinoVpnAd)
 
 کانال v2ray 👇
-
 [@MinoVpnCh](https://t.me/MinoVpnCh)
 
 خرید سرور اختصاصی 👇
