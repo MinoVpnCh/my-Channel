@@ -4,19 +4,19 @@
 🏅 قوی ترین کانفیگ های ممکن را دریافت کنید 🏅
 
 خرید 👇
-[@MinoVpnVipBot](https://t.me/@MinoVpnVipBot)
+[@MinoVpnVipBot](https://t.me/MinoVpnVipBot)
 
 ادمین 👇
-@MinoVpnAd
+[@MinoVpnAd](https://t.me/MinoVpnAd)
 
 کانال v2ray 👇
-@MinoVpnCh
+[@MinoVpnCh](https://t.me/MinoVpnCh)
 
 خرید سرور اختصاصی 👇
-@MinoVpnAd
+[@MinoVpnAd](https://t.me/MinoVpnAd)
 
 تبلیغات  👇
-@MinoVpnAd
+[@MinoVpnAd](https://t.me/MinoVpnAd)
 
 چنل رضایت👇
 @MinoVpnRz
