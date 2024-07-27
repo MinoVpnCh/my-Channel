@@ -1,1 +1,4 @@
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&security=none&encryption=none&host=11.V.V2.v.www.speedtest.net.salatinmacvc.iR.&type=ws#WS2-All+%7C%E2%80%8C+%40MinoVpnCh%F0%9F%91%88
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.57.230:443?encryption=none&security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#%40MinoVpnCh
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.218.196:443?encryption=none&security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#%40MinoVpnCh
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.104.207:443?encryption=none&security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#%40MinoVpnCh
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.96.195:443?encryption=none&security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#%F0%9F%94%92%20%40MinoVpnCh
